@@ -9,7 +9,7 @@ on:
 # workflow 내에서 사용할 변수 값 저장
 env:
   AWS_REGION: ap-northeast-2                   
-  ECR_REPOSITORY_NAME: "pda-project"
+  ECR_REPOSITORY_NAME: "team-6"
   ENV_NAME: "prod"
   APP: "client-app" 
 
